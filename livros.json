@@ -1,1 +1,8 @@
-[{"id":"1","name":"Filme Ruim"},{"id":"2","name":"Filme Top"},{"id":"3","nome":"Filme legal"},{"id":"4","nome":"Filme horrivel"}]
+[
+  { "id": "1", "name": "Filme Ruim" },
+  { "id": "2", "name": "Filme Top" },
+  { "id": "3", "nome": "Filme legal" },
+  { "id": "4", "nome": "Filme horrivel" },
+  { "id": "5", "nome": "Filme teste 1" },
+  { "id": "6", "nome": "Filme teste 2" }
+]
